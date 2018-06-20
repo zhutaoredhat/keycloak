@@ -301,7 +301,9 @@ p.description {
   position: absolute;
   right: 10px;
 }
-
+.m-t{
+  margin-top: 20px;
+}
 @media (max-width: 767px) {
   .card-pf-application h2 {
     margin-top: -10px;
